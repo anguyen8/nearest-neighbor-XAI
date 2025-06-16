@@ -1,4 +1,4 @@
-# PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans [.pdf](https://arxiv.org/pdf/2308.13651.pdf)
+# PCNN: Probable-Class Nearest-Neighbor Explanations Improve Fine-Grained Image Classification Accuracy for AIs and Humans
 
 ![](figs/teaser.png)
 
