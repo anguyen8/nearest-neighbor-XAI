@@ -35,7 +35,8 @@
 > Nearest neighbors are traditionally used either to make final predictions (e.g. *k*-NN, SVMs) or to provide supporting evidence for a model’s decision.  
 > **PCNN** takes a new path: we keep a pretrained image classifier **C** intact, then let an **image comparator** **S**
 > 1. compare the query image against nearest neighbors drawn from each of the top-most probable classes, and  
-> 2. re-weight **C**’s logits in a Product-of-Experts style.  
+> 2. re-weight **C**’s logits in a Product-of-Experts style.
+  
 > This simple plug-in consistently boosts accuracy on CUB-200, Cars-196, and Dogs-120.  
 > A user study further shows that lay users make more accurate decisions when viewing PCNN’s *probable-class* neighbors versus seeing only top‑1‑class examples (prior work).
 
