@@ -2,14 +2,14 @@
 <!--   PCNN: Probable-Class Nearest-Neighbor Explanations        -->
 <!-- ----------------------------------------------------------- -->
 
-<h1 align="center">
+<h2 align="center">
   PCNN: Probable-Class Nearest-Neighbor Explanations Improve<br/>
   Fine-Grained Image Classification Accuracy for AIs and Humans
-</h1>
+</h2>
 
-<h1 align="center">
+<h2 align="center">
   Transactions on Machine Learning Research
-</h1>
+</h2>
 
 
 <div align="center">
